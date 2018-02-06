@@ -1,0 +1,5 @@
+total 20
+drwxr-xr-x 1 stefa 197609 0 Feb  6 22:22 ./
+drwxr-xr-x 1 stefa 197609 0 Feb  6 22:22 ../
+drwxr-xr-x 1 stefa 197609 0 Feb  6 22:22 .git/
+-rw-r--r-- 1 stefa 197609 0 Feb  6 22:22 text.txt
